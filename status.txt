@@ -1,8 +1,18 @@
-bootcamp mode
-2 weeks
-find some courses
-basic python
-speaking english 
-post on reddit 
-check the repo every day
-no results - no job
+You stayed. Good.
+You could take the £1000 and run away.
+But you are still here.
+I have work for you.
+Consider this money an advance for the next tasks.
+
+There're some rules:
+1. You don't need to go anywhere, just work from your room.
+2. All communication in English. Your English is weak — improve it while working.
+3. Check this repo every day at 9 PM.
+4. Go to your Reddit thread and write if you are in or not.
+
+About your tasks:
+Relax, no hacking, no phishing.
+We only look for open info on the web.
+You will write simple code on Python.
+
+If you're still there, read the next file.

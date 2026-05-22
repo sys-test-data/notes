@@ -1,0 +1,61 @@
+We start with MIRROR GLASS —
+BigTech in techhub building.
+It's here, in Shoreditch.
+
+Every evening their employees go to the cafe opposite — The Grind.
+Free Wi-Fi.
+The login page asks for name + company.
+People are surprisingly honest.
+
+My guy on the inside sends me the data.
+At the bottom you'll find the log for the week — Monday to Sunday.
+
+Clean it up.
+I only need the MIRROR GLASS people.
+Some wrote MIRROR GLASS. Some typed MG. One genius put "mirror" — same company.
+
+Send me their names and how many times they visited the cafe.
+
+
+logs = [
+    "2026-05-18 18:02 | Elena Voss - MG",
+    "2026-05-18 18:05 | Marcus Webb - TechHub Solutions",
+    "2026-05-18 18:09 | Thomas Reed - Mirror Glass",
+    "2026-05-18 18:12 | Anna Blake - Visitor",
+    "2026-05-18 18:15 | Ben Carter - MIRROR GLASS",
+    "2026-05-18 18:22 | Lena Meyer - GreenLeaf Accounting",
+    "2026-05-18 18:24 | Morgan Gill - MG",
+    "2026-05-18 18:31 | Sofy Reyes - PATCH",
+    "2026-05-18 18:35 | Thomas Reed - mirror glass",
+    "2026-05-18 18:40 | James Patel - Freelancer",
+    "2026-05-18 18:44 | Oscar Dunn - BluePeak Logistics",
+    "2026-05-18 18:48 | Ben Carter - MirrorGlass",
+    "2026-05-18 18:52 | Hyde - Consultant",
+    "2026-05-18 18:56 | Priya Khan - Metro Arts Council",
+    "2026-05-18 19:01 | Derek Shaw - Mirror Glass",
+    "2026-05-18 19:05 | Elena Voss - MG Security",
+    "2026-05-18 19:10 | Sofy Reyes - PATCH",
+    "2026-05-18 19:14 | Camille Roux - East End Records",
+    "2026-05-18 19:18 | Morgan Gill - MirrorGlass",
+    "2026-05-18 19:22 | Hyde - Consultant",
+    "2026-05-18 19:26 | Ben Carter - MG Data",
+    "2026-05-18 19:30 | Elena Voss - MG Analytics",
+    "2026-05-18 19:34 | James Patel - Freelancer",
+    "2026-05-18 19:38 | Derek Shaw - mirror",
+    "2026-05-18 19:42 | Sofy Reyes - PATCH",
+    "2026-05-18 19:46 | Anna Blake - Visitor",
+    "2026-05-18 19:50 | Morgan Gill - MIRROR GLASS",
+    "2026-05-18 19:54 | Hyde - Consultant",
+    "2026-05-18 19:58 | Thomas Reed - MG Data",
+    "2026-05-18 20:02 | Derek Shaw - mirror glass",
+    "2026-05-18 20:06 | Elena Voss - MG Data",
+    "2026-05-18 20:10 | Sofy Reyes - PATCH",
+    "2026-05-18 20:14 | Samir Haddad - Crown Legal",
+    "2026-05-18 20:18 | Hyde - Consultant",
+    "2026-05-18 20:22 | Anna Blake - Visitor",
+    "2026-05-18 20:26 | Tessa Byrne - London Food Co.",
+    "2026-05-18 20:30 | Ben Carter - Mirror Glass",
+    "2026-05-18 20:34 | Derek Shaw - MIRROR GLASS",
+    "2026-05-18 20:38 | Morgan Gill - MG Security",
+    "2026-05-18 20:06 | Luna Voss - MG Data"
+]
